@@ -78,5 +78,5 @@ a:hover {
 }
 
 .head:hover, .content:hover, .motto:hover{
-    background-color: aqua;
+    background-color: rgba(0, 255, 255, 0.29);
 }
